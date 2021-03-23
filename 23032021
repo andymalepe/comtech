@@ -1,0 +1,4 @@
+SANAE-1                 ,071366257,Boot:1.1.1 Bulk1:1.6.19 Bulk2:1.6.18,Remote,135,255,No Frame
+SANAE-1,071366257,Boot:1.1.1 Bulk1:1.6.19 Bulk2:1.6.18,Remote,135,255,No Frame,AUPC Disabled,On,+19,+35,No Faults,Rx Traffic OK,Tx Traffic OK,No Fault,No Faults,10.0 dB,+001.5 kHz,0.0 x 10^-9,Online,==46,344
+SANAE-1,071366257,Boot:1.1.1 Bulk1:1.6.19 Bulk2:1.6.18,Remote,135,255,No Frame,AUPC Disabled,On,+20,+35,No Faults,Rx Traffic OK,Tx Traffic OK,No Fault,No Faults,09.9 dB,+001.5 kHz,0.0 x 10^-9,Online,==46,344
+2021-03-23T12:06:54.503ZSANAE-1,071366257,Boot:1.1.1 Bulk1:1.6.19 Bulk2:1.6.18,Remote,135,255,No Frame,AUPC Disabled,On,+19,+35,No Faults,Rx Traffic OK,Tx Traffic OK,No Fault,No Faults,10.0 dB,+001.5 kHz,0.0 x 10^-9,Online,==46,344
